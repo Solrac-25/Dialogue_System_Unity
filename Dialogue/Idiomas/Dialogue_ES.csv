@@ -1,0 +1,6 @@
+ID,CharacterName,Text,NextId,Expression,Side,Color,config
+1,tu,Hola,2,angry,left,blue,1
+2,tu,texto mas largo es una prueba de espacio haber cuanto entra en una sola linea,3,happy,right,red,1
+3,kimi,texto corto,4,neutral,right,red,2
+4,tu,coso final,5,sad,left,red,2
+5,tu,blabla final ,-1,neutral,right,red,2
